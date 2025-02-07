@@ -1,0 +1,9 @@
+# Ignorar el entorno virtual
+EntornoVirtual/
+
+# Archivos de caché y configuraciones locales
+__pycache__/
+*.pyc
+*.pyo
+*.sqlite3
+.env
